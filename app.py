@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Good Afternoon from Manoj!
+Good Afternoon from Manoj! I have now added trigger to source
 ''')
 
 def run():
