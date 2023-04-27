@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Hello from Manoj!
+Good Afternoon from Manoj!
 ''')
 
 def run():
