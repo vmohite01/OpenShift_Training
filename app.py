@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Good Afternoon from Manoj! I have now added trigger to source 3
+Good Morning from Manoj! Today is 3rd July 
 ''')
 
 def run():
